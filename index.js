@@ -4,7 +4,7 @@ var data = {
         title: ["Hello <span class='emoji'> &#128075;</span>", "I am Mr.GEMINI", "Welcome to SKSVMACET FAMILY", "How can I help you?"],
         options: ["About_College <span class='emoji'>&#128210;</span>", "Available College Branches <span class='emoji'>&#128187;</span>", "Eligibility <span class='emoji'>&#128188;</span>", "Admission Process <span class='emoji'>&#9997;</span>", "Contact_Info <span class='emoji'>&#128222;</span>", "Other <span class='emoji'>&#129535;</span>"]
     },
-    about_collage: {
+    about_College: {
         title:["Please select category"],
         options:['Smt Kamala and Sri Venkappa M. Agadi College of Engineering & Technology (SKSVMACET), established in 2003, is a private institution in Karnataka. It offers full-time undergraduate B.E./B.Tech courses across various disciplines, with an intake capacity of 360 students. The college has a solid reputation for its AICTE-approved engineering programs and experienced faculty. Popular branches include Computer Science, Electronics, Information Science, and Mechanical Engineering. Admissions are conducted via KCET and COMEDK UGET exams. The college s median salary package for placements is around ₹2 LPA, with top recruiters like Infosys, TCS, and IBM.','Contact_Info','Other'],
         url : {
